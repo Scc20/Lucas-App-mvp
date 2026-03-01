@@ -1,0 +1,1 @@
+export const safeNum = (val) => (isNaN(parseFloat(val)) ? 0 : parseFloat(val));
