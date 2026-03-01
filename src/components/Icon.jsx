@@ -1,4 +1,3 @@
-// src/components/Icon.jsx
 import * as Icons from "lucide-react";
 
 const Icon = ({ name, size = 24, className = "", strokeWidth = 2 }) => {
